@@ -10,9 +10,9 @@ Future main() async {
   }
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyCTG3qCiaswm32ihwR9Kkm-9Y6itv_8",
-          appId: "1:729323352901:web:a011ec7bc42c",
-          messagingSenderId: "quickride-9cb",
+          apiKey: "qCiaswm32ihwR9Kkm-9Y6itv_8",
+          appId: "1:7252901:web:a011ec7bc42c",
+          messagingSenderId: "quickride-9b",
           projectId: "flutter-firebase-a3bd"));
   runApp(const MyApp());
 }
